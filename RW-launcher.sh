@@ -1,4 +1,5 @@
 #! /bin/bash
+# Demo video : https://www.youtube.com/watch?v=nWdm16c9aKE
 # [Priv8] R00tw0rm React0r TooL v1.0 
 #Fuck your Right .. Sys
 function jumpto
